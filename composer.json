@@ -1,0 +1,16 @@
+{
+    "name": "xrpl/xumm-sdk-php-tutorial",
+    "description": "A tutorial for using the XUMM PHP SDK",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "beta",
+    "authors": [
+        {
+            "name": "Pauline Vos",
+            "email": "pvos88@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    }
+}
