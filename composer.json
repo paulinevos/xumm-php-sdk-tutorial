@@ -3,7 +3,7 @@
     "description": "A tutorial for using the XUMM PHP SDK",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Pauline Vos",
@@ -11,6 +11,7 @@
         }
     ],
     "require": {
-        "php": "^8.1"
+        "php": "^8.1",
+        "xrpl/xumm-sdk-php": "^1.0.0"
     }
 }
